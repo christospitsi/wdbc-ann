@@ -7,4 +7,4 @@ based on 30 features extracted from FNA biopsies.
 
 The application was developed using ```R``` interface to ```Keras``` framework, in order to create and train a sequential model which uses the backpropagation algorithm.
 
-For a detailed report on the applcation please refer to my persona blog. 
+For a detailed report on the application please refer to my personal blog. 
